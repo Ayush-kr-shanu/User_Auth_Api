@@ -21,13 +21,13 @@ Make sure you have Node.js and npm installed on your machine.
 
 Create a `.env` file in the root directory of the project and set the following environment variables:
 
-```DATABASE=leading-tech```
-```USER=root```
-```PASS=your_password```
-```HOST=localhost```
-```DILACT=mysql```
+```DATABASE=leading-tech``` <br>
+```USER=root``` <br>
+```PASS=your_password``` <br>
+```HOST=localhost``` <br>
+```DILACT=mysql``` <br>
 
-```JWT_CODE=your_secret_jwt_code```
+```JWT_CODE=your_secret_jwt_code``` <br>
 
 
 Replace `your_password` and `your_secret_jwt_code` with your actual database password and JWT secret code.
