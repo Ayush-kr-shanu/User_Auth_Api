@@ -55,6 +55,7 @@ Example Request Body:
   "SKU": "ABC123",
   "images": ["url1.jpg", "url2.jpg"]
 }
+```
 
 ### GET /products/:productId
 
